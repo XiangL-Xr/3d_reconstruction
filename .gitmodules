@@ -1,0 +1,6 @@
+[submodule "src/submodule/ceres-solver"]
+	path = src/submodule/ceres-solver
+	url = http://git.moviebook.cn/algorithm/Reconstruction3D/ceres-solver.git
+[submodule "src/submodule/colmap"]
+	path = src/submodule/colmap
+	url = http://git.moviebook.cn/algorithm/Reconstruction3D/colmap.git

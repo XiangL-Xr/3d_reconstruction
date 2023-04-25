@@ -1,0 +1,8 @@
+/data
+/Final_out
+/.idea/
+*/__pycache__
+*.pyc
+/build
+/3d_reconstruction_api
+/logs
